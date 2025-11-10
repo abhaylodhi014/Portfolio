@@ -201,7 +201,7 @@ export default function Resume() {
               {isDark ? <Sun size={20} /> : <Moon size={20} />}
             </button>
             <a
-              href="https://github.com"
+              href="https://github.com/abhaylodhi014"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-lg bg-card hover:bg-card/80 transition-colors hover:text-primary"
@@ -209,7 +209,7 @@ export default function Resume() {
               <Github size={20} />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/abhay-lodhi-a5a21231a/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-lg bg-card hover:bg-card/80 transition-colors hover:text-primary"
@@ -610,7 +610,7 @@ export default function Resume() {
                 Email
               </a>
               <a
-                href="https://github.com"
+                href="https://github.com/abhaylodhi014"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors group"
@@ -619,7 +619,7 @@ export default function Resume() {
                 GitHub
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/abhay-lodhi-a5a21231a/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors group"
